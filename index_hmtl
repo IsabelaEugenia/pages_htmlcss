@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Menina Tulipa"</title>
+    <link rel='./images/icone.png' href='icon'>
+</head>
+
+<body>
+
+    <!--Título-->
+    <h1>"Ah, se eu fosse mais..."</h1>
+
+    <!--Subtítulo-->
+    <h2>"Você pensa assim? Realmente seria quem você é se não fosse você?"</h2>
+    <img src="./images/ponto-de-interrogacao.png" alt="ponto de interrogação" width="100" height="100">
+    <br>
+
+    <!--Conteúdo-->
+    <p>"Com certeza você já disse essa frase. Todas as vezes em que pensamos 'se eu fosse mais bonita, mais rica, mais
+        inteligente
+        eu conseguiria oque tanto almejo' estamos se auto sabotando. Na verdade nós somos o que somos para que
+        pudessemos ser únicas e nada disso pode nos impedir de alcançarmos nossos sonhos e objetivos.
+        Se você se sente insegura, saiba que sua vida é muito valiosa. 'mais preciosa que os rubis' é oque diz o
+        versículo de Provérbios 3:15.
+        Como podemos dizer algo contrário a essa verdade? Olhe para si e responda quem realmente você é."</p>
+    <br>
+    <img src="./images/menina.jpg" alt="menina segurando um espelho" width="500" height="300">
+    <br>
+
+    <p>Não podemos admitir que o olhar para o outro seja um olhar de comparação, pois cada um tem seu jeito especial de
+        ser. Nós nascemos como somos, com nossas características e personalidades para que pudessemos ser quem somos.
+        "Tu criaste o íntimo do meu ser e me teceste no ventre de minha mãe. Eu te louvo porque me fizeste de modo
+        especial e admirável. Tuas obras são maravilhosas! Digo isso com convicção." (Salmos 139:13-14)
+        O Criador nos fez de modo único "espantoso e assombroso" como diz o salmista, pois esse modo detalhoso de nos
+        formar é intrigante, "assombra" nosso entendimento.
+        Se o Criador que fez as belas flores, os montes, as estrelas, os mares e oceanos, a terra e todos os seres que
+        nela há te fez assim, por que você insiste em querer ser diferente?
+        Será que as rosas olham para os cravos e dizem "ah se minhas pétalas fossem alargadas como a desses cravos" e
+        tentam abrir mais seus botões ou até colocar moldes em si mesmas para serem como os cravos?
+        Não! Se as rosas não forem como elas são não exstirão mais rosas! Se você não for como você é, não existirá mais
+        você!
+        Desperta menina! Abra seus olhos para enxergar o que vê no espelho! Não se molde aos outros, se molde em sua
+        identidade!
+        "Mas eu não sei quem sou." Aqui está a resposta: "Você é minha filha amada!", "Você é forte e corajosa (josué
+        1:7)", "Você é unica" e todas as vezes que você se encontra com seu passado repita "Ele me deu um novo nome, sou
+        uma nova criatura pelo poder de Jesus eu sou nova criação!"
+        De 'luana, a fraca' para 'luana, a forte', de 'maria, a incapaz' para 'maria, a capaz', de 'julia, a insegura'
+        para 'julia, a segura e fortalecida na rocha de Cristo!'
+        Sua vida, pequena, vale o preço do Sangue do Senhor! Pois ELe se entregou para te salvar, foi pensando em você!
+        Por isso, entenda, você é amada infinitamente, você é um tesouro nas mãos do Senhor!"
+        Aos olhos do Pai você é uma obra prima que ele planejou e com suas próprias mãos pintou a cor de sua pele, os
+        seus cabelos desenhou cada etalhe, um toque de amor! Ele sabe quantos fios de cabelo tem em sua cabeça,
+        Ele sabe as suas fraquezas, seus defeitos, mas também sabe de suas qualidades, aprimora suas vitórias e organiza
+        suas histórias!
+        Por isso, não se molde mais a ninguém a não ser Aquele que te quer bem!
+        Ele tem pensamentos de paz para você, pensamentos de esperança e de um futuro promissor! (Jeremias 29:11)
+        Deus sonhou com você antes mesmo de nascer, Ele te fez para que você desfrutasse desse presente que é viver e
+        conhecer a verdade, a luz, a cura, o respirar, o falar, o ouvir, o dizer, o fôlego!
+        Seja como Ele te fez, para que você cumpra os propósitos que há para que você exista, sua vida tem sentido!
+        Se você aceitar, sua vida pode ter um nome, Jesus! (João 14:6) </p>
+
+
+    <p>Minha amada, você é tão preciosa, busque seu valor em Jesus e não nas pessoas, pois elas te deixam e passam, mas
+        Deus não te deixará nem a abandonará (Isaías 43:1-5) (joão 14:16, 18, 26).</p>
+        <img src="/images/coroa.webp" alt=" menina sendo coroada por Jesus" width="200" height="200">
+
+    <!--Conclusão-->
+    <p>Deus sonhou com você!</p>
+
+</body>
+
+</html>
